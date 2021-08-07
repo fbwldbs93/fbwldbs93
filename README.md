@@ -3,6 +3,9 @@
 <!-- - 👀 I’m interested in -->
 - 🌱 I’m currently learning react, es6
 
+- 💻 my portfolio site<br/>
+  https://fbwldbs93.github.io/portfolio_2021/index.html <br/><br/>
+
 - ✍ my blog link <br/> 
   https://coding-designer.tistory.com/ <br/><br/>
 

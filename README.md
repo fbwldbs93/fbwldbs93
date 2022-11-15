@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbwldbs93. Junior web publisher. <br/>
+- 👋 Hi, I’m @fbwldbs93. Junior web frontend. <br/>
 
 <!-- - 👀 I’m interested in -->
 - 🌱 I’m currently learning react, es6

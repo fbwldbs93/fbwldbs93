@@ -1,12 +1,17 @@
 👋 Hi, I’m @fbwldbs93. **Junior web frontend.** <br/>
 
+my blog<br/>
+https://coding-designer.tistory.com/
+
+<hr/>
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
 
-📫 How to reach me <br/>
-send email to fbwldbs93@naver.com.<br/><br/>
+📫 How to reach me <br/><br/>
+send email to <br/>
+fbwldbs93@naver.com.<br/>
 
-
+<hr/>
 
 ### 💪Skills
 
@@ -17,7 +22,3 @@ send email to fbwldbs93@naver.com.<br/><br/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=white"/>
 
 
-<br/>
-
-### 👀Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbwldbs93&hide=python)](https://github.com/fbwldbs93/github-readme-stats)
